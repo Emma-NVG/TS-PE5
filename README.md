@@ -8,6 +8,11 @@ Note: Please download the Intrusion detection evaluation dataset (ISCX IDS 2012)
 
 First, please use any ML or DL algorithms to finish the Intrusion detection task, including malicious and normal classification, analysis of different metrics, and particular attention to false alert rate.
 
+**RESULT**
+
+Dataset at link http://205.174.165.80/CICDataset/ISCX-IDS-2012/ was not available so this part was not completed
+![Capture d’écran 2024-01-21 à 19 18 50](https://github.com/Emma-NVG/TS-PE5/assets/51115377/743f16e9-8f5d-4a2d-a0f6-4a52cf99a416)
+
 ---
 
 **Task 2: Binary Search Tree**
